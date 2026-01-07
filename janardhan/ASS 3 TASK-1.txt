@@ -1,0 +1,15 @@
+#include <stdio.h>  // Include standard input-output library
+
+// main function: entry point of the program
+int main() {
+    // Print name on a new line
+    printf("Name: Alex\n");
+    
+    // Print age on a new line
+    printf("Age: 20\n");
+    
+    // Print country on a new line
+    printf("Country: India\n");
+    
+    return 0; // End of program
+}
